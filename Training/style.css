@@ -101,14 +101,13 @@ a img{
 }
 
 #catalog{
-    position:absolute;
     display:flex;
     flex-wrap: wrap;
-    top: 900px;
+    margin-top: 60px;
 }
  
 #catalog img{
-    position: absolute;
+    position:absolute;
     display:flex;
     width:50%;
 }
@@ -124,6 +123,7 @@ a img{
 #catalog h2{
     margin-bottom:0;
 }
+
 .item-2{
     
     margin-left: 508px;
